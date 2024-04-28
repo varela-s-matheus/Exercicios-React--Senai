@@ -1,3 +1,14 @@
+## Sobre o Projeto
+
+O Atividade Senai criação de um timer, tem como objetivo exercitar com framework React.
+
+## Tecnologias Utilizadas
+* HTML
+* CSS
+* JavaScript
+* React
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +79,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Contatos
+
+<a href="https://linkedin.com/in/varela-s-matheus" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-MatheusVarela-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/varela_matheuus/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-MatheusVarela-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
